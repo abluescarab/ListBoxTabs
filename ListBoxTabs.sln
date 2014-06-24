@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxTabs", "src\ListBoxTabs.csproj", "{1220EC7E-459F-4482-AFE4-B798ED8B6C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{97C57193-F371-4CD9-978C-31ED3FB2215B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1220EC7E-459F-4482-AFE4-B798ED8B6C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1220EC7E-459F-4482-AFE4-B798ED8B6C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1220EC7E-459F-4482-AFE4-B798ED8B6C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1220EC7E-459F-4482-AFE4-B798ED8B6C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C57193-F371-4CD9-978C-31ED3FB2215B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C57193-F371-4CD9-978C-31ED3FB2215B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C57193-F371-4CD9-978C-31ED3FB2215B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C57193-F371-4CD9-978C-31ED3FB2215B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
