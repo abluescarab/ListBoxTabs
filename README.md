@@ -3,6 +3,8 @@ ListBoxTabs is a fancier replacement for the C# TabControl. It was created mostl
 
 LBT is a custom UserControl containing a ListBox control. The ListBox control's items are drawn manually to allow for custom colors and borders. Items will change color when the mouse cursor is hovering over them.
 
+![Screenshot](/../screenshots/screenshots/3.png)
+
 ## Using the Control
 ### Accessing the Underlying ListBox
 You can access the underlying ListBox by using `listBoxTabs1.ListBox`; from there, you can assign the ListBox's properties or add event handlers. Unfortunately, the ListBox's properties *must* be changed programmatically (unless you can figure out how to make the ListBox browsable and change its propreties from there).
