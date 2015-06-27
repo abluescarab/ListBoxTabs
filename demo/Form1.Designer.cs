@@ -23,7 +23,7 @@
 		/// the contents of this method with the code editor.
 		/// </summary>
 		private void InitializeComponent() {
-            this.listBoxTabs = new CustomControls.ListBoxTabs.ListBoxTabs();
+            this.listBoxTabs = new ListBoxTabs.ListBoxTabs();
 			this.SuspendLayout();
 			// 
 			// listBoxTabs
@@ -60,7 +60,7 @@
 
 		#endregion
 
-        private CustomControls.ListBoxTabs.ListBoxTabs listBoxTabs;
+        private ListBoxTabs.ListBoxTabs listBoxTabs;
 
 	}
 }

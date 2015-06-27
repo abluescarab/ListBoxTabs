@@ -59,7 +59,7 @@ namespace ListBoxTabs_test {
 
 		private void HideAllControls() {
 			foreach(Control c in this.Controls) {
-                if(c.GetType() != typeof(CustomControls.ListBoxTabs.ListBoxTabs)) {
+                if(c.GetType() != typeof(ListBoxTabs.ListBoxTabs)) {
 					c.Hide();
 				}
 			}
