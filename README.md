@@ -8,7 +8,7 @@ LBT is a custom UserControl containing a ListBox control. The ListBox control's 
 ## Install via NuGet
 You can install the NuGet package either through Visual Studio or by running this command:
 
-    PM>Install-Package ListBoxTabs
+    PM> Install-Package ListBoxTabs
 
 ## Using the Control
 ### Accessing the Underlying ListBox
