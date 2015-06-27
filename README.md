@@ -3,7 +3,12 @@ ListBoxTabs is a fancier replacement for the C# TabControl. It was created mostl
 
 LBT is a custom UserControl containing a ListBox control. The ListBox control's items are drawn manually to allow for custom colors and borders. Items will change color when the mouse cursor is hovering over them.
 
-![Screenshot](/../screenshots/screenshots/3.png)
+![Preview](/../screenshots/3.png)
+
+## Install via NuGet
+You can install the NuGet package either through Visual Studio or by running this command:
+
+    PM>Install-Package ListBoxTabs
 
 ## Using the Control
 ### Accessing the Underlying ListBox

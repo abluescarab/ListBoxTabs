@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ListBoxTabs")]
-[assembly: AssemblyDescription("An alternative to the C# TabControl.")]
+[assembly: AssemblyTitle("ListBoxTabs_test")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Abluescarab Designs")]
-[assembly: AssemblyProduct("ListBoxTabs")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ListBoxTabs_test")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("bae143e6-319b-438f-8eaa-df71e15615d3")]
+[assembly: Guid("4dbc2260-4ff7-494d-b525-bbb0e7145607")]
 
 // Version information for an assembly consists of the following four values:
 //
